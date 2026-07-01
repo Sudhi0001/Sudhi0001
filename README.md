@@ -1028,7 +1028,7 @@ I'm always interested in working on projects that involve:
 
 </p>
 
-> **Note:** You'll generate this automatically using a GitHub Action once the profile repository is set up.
+
 
 ---
 
