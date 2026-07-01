@@ -1,216 +1,237 @@
-<h1 align="center">Hi 👋, I'm Sudheendra G K</h1>
+<!-- ====================================================== -->
+<!--                  HERO SECTION                          -->
+<!-- ====================================================== -->
+
+<p align="center">
+
+<img src="YOUR_BANNER_LINK_HERE" width="100%">
+
+</p>
+
+<h1 align="center">
+Sudheendra G K
+</h1>
 
 <h3 align="center">
-Full-Stack Developer • AI & ML Enthusiast • B.Tech Computer Science Student
+
+Software Engineer • Full-Stack Developer • AI Builder
+
 </h3>
 
 <p align="center">
-Building scalable software, AI-powered applications, and digital products that solve real-world problems.
+
+<i>
+Building software that solves real-world problems through engineering, design, and artificial intelligence.
+</i>
+
+</p>
+
+<p align="center">
+
+<a href="https://portfolio-jade-rho-7h1nw6o8k0.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Sudhi0001">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/sudheendra-g-k027">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:sudhig10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Welcome
 
-- 🎓 B.Tech Computer Science & Engineering at **Presidency University, Bengaluru**
-- 💻 Passionate about **Full-Stack Development**, **AI/ML**, and **Software Engineering**
-- 🚀 Love turning startup ideas into real products
-- 🌱 Currently exploring **Spring Boot**, **React**, **System Design**, and **Cloud Technologies**
-- 🧠 Solved **100+ DSA Problems**
-- 💼 Open to **Internships**, **Software Engineering Roles**, and **Freelance Opportunities**
+I’m **Sudheendra G K**, a Computer Science student and software developer passionate about building products that people actually use.
+
+My focus goes beyond writing code—I enjoy solving meaningful problems through scalable software, intuitive user experiences, and modern engineering practices.
+
+Whether it's an AI-powered recruitment platform, a food ordering system, a peer-learning ecosystem, or a startup website, I enjoy taking an idea from concept to deployment.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 What I'm Building
 
-### Languages
+<table>
+
+<tr>
+
+<td width="33%">
+
+### 🤖 IntelliHire
+
+AI-powered recruitment platform
+
+Python • Flask • MongoDB
+
+</td>
+
+<td width="33%">
+
+### 💻 AlgoArena
+
+Competitive programming ecosystem
+
+Learning • XP • Challenges
+
+</td>
+
+<td width="33%">
+
+### 🎓 MindSync
+
+Peer-to-peer learning platform
+
+Mentorship • Community • Growth
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 Developer Snapshot
+
+<p align="center">
+
+| Projects | DSA | Hackathons | Ideathons | Internship |
+|:--------:|:---:|:----------:|:----------:|:-----------:|
+| **8+** | **100+** | **3** | **2** | **BEL** |
+
+</p>
+
+---
+
+# 💡 What Drives Me
+
+```text
+✔ Building scalable web applications
+
+✔ Turning startup ideas into real products
+
+✔ Creating clean and intuitive user experiences
+
+✔ Designing RESTful backend systems
+
+✔ Writing maintainable, production-ready code
+
+✔ Learning something new every single day
+```
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
+
 </p>
 
-### Frontend
+---
+
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,js" />
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+
 </p>
 
-### Backend
+---
+
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,mysql,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
+
 </p>
 
-### Tools
+---
+
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,eclipse" />
-</p>
 
----
-
-# 📌 Featured Projects
-
-## 🤖 IntelliHire
-### AI Recruitment Platform
-
-> AI-powered recruitment platform that automates candidate management, interview scheduling, resume evaluation, and hiring workflows.
-
-**Tech Stack**
-
-- Python
-- Flask
-- MongoDB
-- HTML
-- CSS
-- REST APIs
-
-🔗 Repository:
-https://github.com/Sudhi0001/IntelliHire
-
----
-
-## 🍔 FoodHub
-
-### Full Stack Food Ordering Platform
-
-A complete food ordering system with authentication, session management, admin dashboard, order management, and database integration.
-
-**Tech Stack**
-
-- Java
-- JSP
-- Servlets
-- JDBC
-- MySQL
-
-🔗 Repository
-
-https://github.com/Sudhi0001/FoodHub
-
----
-
-## 🎓 MindSync
-
-Peer Learning Platform designed to connect students with mentors and learning resources.
-
-Features
-
-- Student Mentorship
-- Resource Sharing
-- Product Design
-- Agile Development
-
----
-
-## 💻 AlgoArena
-
-Gamified Coding Platform designed for interview preparation.
-
-Features
-
-- Coding Challenges
-- XP System
-- Learning Dashboard
-- Performance Analytics
-- Mock Tests
-
----
-
-## 🍟 FREEJUNX
-
-Marketing website developed for a healthy fast-food startup.
-
-Features
-
-- Responsive Design
-- SEO Optimized
-- Interactive UI
-- Production Ready
-
-🌐 Live
-
-https://freejunx.in
-
----
-
-## 📄 BEL Internship
-
-AI-powered Text Summarization System
-
-Internship project focused on
-
-- NLP
-- Flask
-- Python
-- REST APIs
-- Document Processing
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudhi0001&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhi0001&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhi0001&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 </p>
 
 ---
 
-## 🏆 Achievements
+## Tools
 
-- 🚀 Built **7+ Software Projects**
-- 💻 Solved **100+ DSA Problems**
-- 🏅 Participated in **3 Hackathons**
-- 💡 Participated in **2 Ideathons**
-- 🌐 Delivered live production websites for clients
-- 🤝 Active Open Source & GitHub Contributor
+<p>
 
----
-
-## 📜 Certifications
-
-- ✅ HackerRank – Problem Solving (Intermediate)
-- ✅ Bharat Electronics Limited Internship
-- ✅ Kerala Blockchain Academy – Blockchain Foundation
-- ✅ Scaler – Python Programming
-- ✅ Udemy – Digital Forensics Masterclass
-
----
-
-## 📫 Connect With Me
-
-📧 **Email**
-
-sudhig10@gmail.com
-
-🌐 **Portfolio**
-
-https://portfolio-jade-rho-7h1nw6o8k0.vercel.app
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/sudheendra-g-k027
-
-💻 **GitHub**
-
-https://github.com/Sudhi0001
-
----
-
-<p align="center">
-
-<i>"Building scalable software, solving meaningful problems, and creating products people love to use."</i>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,eclipse" />
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=Sudhi0001&label=Profile%20Views&color=0e75b6&style=flat)
+---
+
+# 📈 By the Numbers
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 🚀
+
+### 8+
+
+Projects
+
+</td>
+
+<td align="center">
+
+## 💻
+
+### 100+
+
+DSA Problems
+
+</td>
+
+<td align="center">
+
+## 🏆
+
+### 3
+
+Hackathons
+
+</td>
+
+<td align="center">
+
+## 💡
+
+### 2
+
+Ideathons
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+> *"I don't build projects to fill a portfolio. I build products to solve problems."*
